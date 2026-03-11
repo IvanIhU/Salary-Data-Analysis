@@ -6,6 +6,7 @@ Tools used:
 - Python
 - Pandas
 - Matplotlib
+- seaborn
 
 Analysis includes:
 - salary distribution
